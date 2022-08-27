@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://bcrent-dev/",
+            "server": "http://bccserver/",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,
